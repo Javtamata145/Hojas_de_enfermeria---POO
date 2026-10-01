@@ -1,0 +1,11 @@
+# Historias de Usuario
+
+* **Como enfermero quiero que** se pueda agregar la funcionalidad de marcado de la hora de la dosis **para que** no tengamos que tener que agregarlo personalmente sin que tengamos que memorizarlo para escribirlo por cada paciente.
+* **Como enfermero quiero que** se calculen automáticamente las formulas que se utilizan en las hojas de enfermería **para que** no tengamos que estar calculando mentalmente o tener que usar una calculadora que nos llevará más tiempo en el uso de esta.
+* **Como enfermero quiero que** la transmisión de mi información de la hoja de enfermería sea mediante Bluetooth por código QR **para que** no tengamos que usar internet puesto que este es lenta.
+* **Como enfermero quiero que** se impriman en las hojas de enfermería con el formato como solicitan las guías operativas 39: registros de enfermería el ISSSTE **para que** puedan ser identificados varías intervenciones en las hojas de enfermería según el turno y otros más procesos.
+* **Como enfermero quiero que** se puedan evaluar las escalas en sus respectivos lugares de las hojas de enfermería según el tipo **para que** sea más rápido de identificarlas y seleccionarlas.
+* **Como enfermero quiero que** el software sea intuitivo y fácil de usar con indicaciones claras y apegados a los criterios que solicita la NOM 004 SSA3 2012 **para que** se pueda utilizar en un espacio hospitalario verdadero.
+* **Como enfermero quiero que** el software no permita generar la hoja de impresión si faltan datos normativos esenciales impuestas por la NOM 004 SSA 2012 **para que** se evite las impresiones accidentales por los enfermeros.
+* **Como enfermero quiero que** el software sea ligero **para que** se pueda ejecutar en dispositivos de gama media baja.
+* **Como enfermero quiero que** el software no conserve la mínima información de los pacientes escritos en las hojas de enfermería después de transferencia o impresión **para que** no se pueda suceder alguna infracción según las NOM 004 SSA 2012.
