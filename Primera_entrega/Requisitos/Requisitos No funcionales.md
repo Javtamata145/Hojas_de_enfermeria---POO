@@ -1,0 +1,9 @@
+# Requisitos No Funcionales
+
+* **RNF-01 Usabilidad de Visualización:** La interfaz gráfica de la aplicación debe contar con un "modo de vista" que despliegue la información simulando físicamente la hoja impresa, optimizando la ergonomía y la comodidad de lectura.[cite: 151]
+* **RNF-02 Rendimiento y Eficiencia:** El sistema debe tener una arquitectura ligera con un consumo mínimo de memoria RAM y CPU, garantizando una ejecución fluida en dispositivos móviles de gama media baja.[cite: 151]
+* **RNF-03 Arquitectura Offline-First:** El sistema debe garantizar que el 100% de la captura de datos, visualización y transferencias locales Bluetooth operen sin conexión a internet.[cite: 151]
+* **RNF-04 Seguridad de Entorno Cerrado:** La lectura del código QR y la transferencia Bluetooth deben operar exclusivamente bajo cifrado propietario de la aplicación; los códigos no podrán ser interpretados por la cámara nativa u otras aplicaciones del teléfono.[cite: 151]
+* **RNF-05 Privacidad y Borrado Efímero:** Una vez que la información sea recibida y confirmada por el dispositivo destino, el sistema debe eliminar automáticamente los datos locales del dispositivo emisor sin dejar archivos residuales en la memoria caché o almacenamiento local.[cite: 151]
+* **RNF-06 Cumplimiento Normativo (Seguridad NOM-004-SSA3-2012):** La arquitectura de bases de datos y la gestión de permisos deben cumplir con los estándares legales de inalterabilidad, confidencialidad y rastreabilidad de registros clínicos establecidos por la normatividad federal mexicana.[cite: 151]
+* **RNF-07 Bases de Datos Embebidas:** La arquitectura del sistema debe realizar toda la captura de pacientes, constantes vitales, gráficas y la inserción de la firma digital sobre una base de datos local alojada directamente en el dispositivo aplicando de manera obligatoria cifrado local para proteger los datos clínicos en reposo.[cite: 151]
