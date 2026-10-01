@@ -22,8 +22,5 @@ Desarrollar una aplicación para la escritura de hojas de enfermería que reduzc
 
 ### Integrantes del equipo
 
-Diego Ku Mondragón
-Javier Adrián Salazar De La Cruz Canul
-Elliot Gibranny Mis Ramirez
-Leonardo Daniel Matu Aguayo
+Diego Ku Mondragón, Javier Adrián Salazar De La Cruz Canul, Elliot Gibranny Mis Ramirez y Leonardo Daniel Matu Aguayo
 
