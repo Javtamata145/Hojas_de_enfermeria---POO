@@ -1,0 +1,25 @@
+# Plantilla de la hoja de enfermería.
+# Un segmento por línea, en el orden en que aparecen en la hoja.
+# Las líneas vacías y las que empiezan con # se ignoran.
+DatosPaciente
+DanoTisular
+SignosVitales
+MatrizSV
+DatosSignosVitales
+ControlLiquidos
+Ingresos
+Egresos
+Balance
+Medicamentos
+Hemocomponentes
+SolucionesParenterales
+NtpNpp
+Dieta
+Cuidados
+EvaGlasgow
+BradenUPP
+TablaPosturales
+MedidasHigienicas
+TiempoFuera
+NotasEnfermeros
+NotasFinales
